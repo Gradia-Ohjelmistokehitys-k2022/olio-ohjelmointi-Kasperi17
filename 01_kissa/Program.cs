@@ -17,9 +17,9 @@ namespace _01_kissa
             Console.WriteLine(omakissa.PalautaKissanIka());
             Console.WriteLine(naapurinKissa.PalautaKissanIka());
             Console.WriteLine(omakissa.AsetaKissanNimi("hildA"));
-            Console.WriteLine(katti.Nimi);
-            
-            
+            Console.WriteLine(katti);
+            Console.WriteLine(omakissa);
+            Console.WriteLine(naapurinKissa);
             
             
             
