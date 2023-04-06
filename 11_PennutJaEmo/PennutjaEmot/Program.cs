@@ -28,6 +28,8 @@ namespace PennutjaEmot
             {
                 Console.WriteLine($"{pentu.Nimi}: emä = {pentu.Ema.Nimi}");
             }
+            ema1.TulostaPentu();
+            ema2.TulostaPentu();
         }
     }
 }
